@@ -1,11 +1,13 @@
-# Making-class-in-different-Programming-languages-
-Making Class in different programming languages is a attempt to make it possible all the classes available at one place in different languages !
+# Making-Class-In-Different_Programming_Languages
+Making Class in different programming languages is an attempt to make available the way of constructing classes in different languages in a centralizes repo.
 
-##### [ Note:The language should be different and if you are using exiting language than please do it in different manner ]
+##### [Note: Avoid conflict in language. If you are using the same language, try to construct the class in a different manner]
 
-### Step 1: Make class vehicle with  properties price, colour and model save them in an function and also make function to show the details of class !
-### Step 2: Make object car1 with price 500$ ,coloue Red and model 008x5 
-### Step 3:now output the details of object CarOne
-### Step 4 :Congo you are done with this !
+# Steps to follow
+### Step 1: Make a Class named Vehicle with the attributes price, color and model. 
+### Step 2: Make an object car1 with a price 500$, color as Red and model as 008x5
+### Step 3: Now output the details of the object attributes
+### Step 4: You are done content wise, now name the file as ClassIn<langauge name><version (optional)>.<langauge_extension> 
 
-#### <i>To know more check ClassInPython.py </i>
+##### <i> For easy reference, look up ClassInPython.py for naming and content <i>
+
