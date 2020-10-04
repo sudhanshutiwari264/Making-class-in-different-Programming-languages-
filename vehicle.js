@@ -20,4 +20,4 @@ class Vehicle {
 // initializing the class, passing values to be used later
 let car = new Vehicle(500, 'Red', '008x5');
 // Using the vehicleDetails that we defined before
-return console.log(car.vehicleDetails());
+console.log(car.vehicleDetails());
