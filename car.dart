@@ -1,8 +1,8 @@
 void main() { 
-   Car car1 = new Car(); 
+   Car car1 = new  Vehicle (); 
  car1.disp(); 
 }  
-class Car {  
+class Vehicle {  
    // field 
    String engine = "008x5";  
    int price =500;
