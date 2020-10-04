@@ -1,10 +1,9 @@
-class Person {
-    var name = "Anne"
-    var age = 32
+class Car {
+      var engine = "008x5";  
+   var price =500;
+   var colour ="Red";
 }
 
-val a = Person()
-val b = Person()
-println("${a.age} ${b.age}") // Prints "32 32"
-a.age = 42
-println("${a.age} ${b.age}") // Prints "42 32"
+val car1 = Car()
+
+
