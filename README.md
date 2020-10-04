@@ -7,9 +7,6 @@
 
 ![](https://img.shields.io/badge/Josh-High-Red)
 ![](https://img.shields.io/badge/Maintained-Yes-orange)
-![](https://img.shields.io/badge/PRs-Accepting-brightgreen)
-![](https://img.shields.io/github/issues/pratik-choudhari/algocode)
-![](https://img.shields.io/github/contributors/)
 
 
  Making Class in different programming languages is an attempt to make available the way of constructing classes in different languages in a centralizes repo.
