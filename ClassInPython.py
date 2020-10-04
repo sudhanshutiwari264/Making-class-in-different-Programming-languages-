@@ -7,7 +7,7 @@ class vehicle:
     self.model = model
   def Show_details(self):
     print("Self.color = ",self.color)
-    print("Self.price = ",self,price)
+    print("Self.price = ",self.price)
     print("Self.model = ",self.model)
     
 CarOne = vehicle(500,"Red","008x5") 
