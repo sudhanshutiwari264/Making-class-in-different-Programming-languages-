@@ -1,0 +1,16 @@
+#Using Python 2.8 here 
+#Making class vehicle:
+class Vehicle:
+  
+  def __init__(self,price,color,model):
+    self.price = price
+    self.color = color
+    self.model = model
+  def display(self):
+    print "Price : ",self.price,"$"
+    print "Color : ",self.color
+    print "Model : ",self.model
+    
+car1 = Vehicle(500,"Red","008x5") 
+#calling Show_details function from the vehicle class for CarOne 
+car1.display()
