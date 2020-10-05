@@ -29,9 +29,9 @@ class Vehicle {
 	
    static void main(String[] args) {
       Vehicle v1 = new Vehicle();
-      v1.setprice(10000);
-      v1.setcolor("Blue");
-      v1.setmodel("GT")
+      v1.setprice(500);
+      v1.setcolor("Red");
+      v1.setmodel("008x5")
 		
       println(v1.getprice());
       println(v1.getcolor());
