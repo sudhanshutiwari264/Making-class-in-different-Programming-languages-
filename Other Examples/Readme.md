@@ -1,7 +1,7 @@
 # Mandatory 
 
 ##### [Note: Avoid conflict in language. If you are using the same language, try to construct the class in a different manner]
-
+## Pick or choose any language to make class in and then follow the below steps in that folder !
 # Steps to follow
 ### Step 1: Make a Class named (As you wish} with the attributes as per objects (should have atleast three attributes). 
 ### Step 2: Make an object with your desired properties
