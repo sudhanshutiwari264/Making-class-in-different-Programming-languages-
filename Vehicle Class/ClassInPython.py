@@ -10,6 +10,6 @@ class vehicle:
     print("Self.price = ",self.price)
     print("Self.model = ",self.model)
     
-CarOne = vehicle(500,"Red","008x5") 
+CarOne = vehicle(500,"Blue","RX100") 
 #calling Show_details function from the vehicle class for CarOne 
 CarOne.Show_details()
