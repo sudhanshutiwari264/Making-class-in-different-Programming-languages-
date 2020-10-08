@@ -10,6 +10,6 @@ class Tree:
     print("Self.width = ",self.width)
     print("Self.height = ",self.height)
     
-Apple="10 meter","1.5 meter",5)
+Apple = ("10 meter","1.5 meter",5)
 #calling Show_details function from the vehicle class for CarOne 
 Apple.Show_details()
