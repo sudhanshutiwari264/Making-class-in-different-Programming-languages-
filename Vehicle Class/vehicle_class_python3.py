@@ -4,6 +4,11 @@ class Vehicle:
         self.color = color
         self.model = model
 
+    def get_vehicle(obj):
+        """returns attributes of the obj"""
+        return obj.__dict__
 
-car1 = Vehicle(price='$500', color='Red', model='008x5')
-print(car1.__dict__)
+
+if __name__ == "__main__":
+    car1 = Vehicle(price='$500', color='Red', model='008x5')
+    print(Vehicle.get_vehicle(car1))
