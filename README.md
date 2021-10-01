@@ -20,12 +20,4 @@
 
 ##### <i> For easy reference, look up ClassInPython.py for naming and content <i>
 
-### <b><i>_Maintainer_</i></b>
- 
-<!-- Don't Change under this line-->
-<!-- Contributors:List-->
-<table>
-    <tr>       
-      <td align="center"><a href="https://github.com/sudhanshutiwari264"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wa93cVXI--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/408005/465c7ac4-fe85-42ea-8749-72f50c1e15fa.jpg" width="100px;" alt="Sudhanshu Tiwari"/><br /><sub><b>Sudhanshu Tiwari</b></br> <b>Owner/Maintainer</b></sub></a></td>
-     </tr>
-</table>
+# thanks for your contribution !
